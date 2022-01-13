@@ -128,7 +128,9 @@ color: #FFC014;
 }
 .course
 {
-
+        border-radius: 30px;
+        
+        background-color: FFFFFF;
 }
 /* Media Queries */
  @media only screen and (max-width: 688px){
